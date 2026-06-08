@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Vijayasri R 👋
 
-<!--
-**Vijay-361/Vijay-361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning MERN Stack, Data Structures & Algorithms, and System Design
+
+🏆 Active Competitive Programmer and Placement Aspirant
+
+## About Me
+
+* 🌱 Currently learning React, Node.js, Express.js, and MongoDB
+* 💡 Interested in Full-Stack Development and Software Engineering
+* 📚 Solving Data Structures and Algorithms problems regularly
+* 🎯 Goal: Crack top software engineering roles and internships
+
+## Skills
+
+### Programming Languages
+
+* C++
+* JavaScript
+* SQL
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React (Learning)
+* Node.js (Learning)
+* Express.js (Learning)
+* MongoDB (Learning)
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+## Current Learning Journey
+
+* MERN Stack Development
+* Data Structures & Algorithms
+* Competitive Programming
+* Computer Science Fundamentals
+
+## Upcoming Projects
+
+* Portfolio Website
+* URL Shortener
+* Digital Wallet Application
+* File Sharing Application
+* AI-Powered Chatbot
+
+## Connect With Me
+
+📧 Email: [rr3079244@gmail.com](mailto:rr3079244@gmail.com)
+
+💼  LinkedIn: [View My LinkedIn Profile](https://www.linkedin.com/in/vijayasri-r-2086a129a/)
+
+🌐 Portfolio: Coming Soon
+
+Thanks for visiting my profile! ⭐
