@@ -15,7 +15,6 @@
 * 📚 Solving Data Structures and Algorithms problems regularly
 * 🎯 Goal: Crack top software engineering roles and internships
 
-## Skills
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
